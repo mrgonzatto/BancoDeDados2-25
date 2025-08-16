@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|d:\\unoesc\\banco de dados ii\\2025\\atividades\\eftest\\eftest\\migrations\\20250815233111_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|solutionrelative:eftest\\migrations\\20250815233111_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|d:\\unoesc\\banco de dados ii\\2025\\atividades\\eftest\\eftest\\models\\studentcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|solutionrelative:eftest\\models\\studentcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|d:\\unoesc\\banco de dados ii\\2025\\atividades\\eftest\\eftest\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|solutionrelative:eftest\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|d:\\unoesc\\banco de dados ii\\2025\\atividades\\eftest\\eftest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|solutionrelative:eftest\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|d:\\unoesc\\banco de dados ii\\2025\\atividades\\eftest\\eftest\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A152A824-490C-4B2E-8B27-B541A86AD360}|EFTest\\EFTest.csproj|solutionrelative:eftest\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250815233111_Initial.cs",
+              "DocumentMoniker": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Migrations\\20250815233111_Initial.cs",
+              "RelativeDocumentMoniker": "EFTest\\Migrations\\20250815233111_Initial.cs",
+              "ToolTip": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Migrations\\20250815233111_Initial.cs",
+              "RelativeToolTip": "EFTest\\Migrations\\20250815233111_Initial.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwEgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:40:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "EFTest\\Data\\SchoolContext.cs",
+              "ToolTip": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "EFTest\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:21:18.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EFTest\\Models\\Student.cs",
+              "ToolTip": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Models\\Student.cs",
+              "RelativeToolTip": "EFTest\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:57:45.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCourses.cs",
+              "DocumentMoniker": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Models\\StudentCourses.cs",
+              "RelativeDocumentMoniker": "EFTest\\Models\\StudentCourses.cs",
+              "ToolTip": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Models\\StudentCourses.cs",
+              "RelativeToolTip": "EFTest\\Models\\StudentCourses.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:52:28.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EFTest\\Models\\Course.cs",
+              "ToolTip": "D:\\Unoesc\\Banco de Dados II\\2025\\Atividades\\EFTest\\EFTest\\Models\\Course.cs",
+              "RelativeToolTip": "EFTest\\Models\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:50:18.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
